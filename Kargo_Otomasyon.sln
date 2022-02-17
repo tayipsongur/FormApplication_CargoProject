@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kargo_Otomasyon", "Kargo_Otomasyon\Kargo_Otomasyon.csproj", "{547208F4-3CF7-4A29-80D0-92E3F3676DBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KRG_ORM", "KRG_ORM\KRG_ORM.csproj", "{B8A01FC1-F94B-4DFD-887A-41DEA386383D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{547208F4-3CF7-4A29-80D0-92E3F3676DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547208F4-3CF7-4A29-80D0-92E3F3676DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547208F4-3CF7-4A29-80D0-92E3F3676DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547208F4-3CF7-4A29-80D0-92E3F3676DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8A01FC1-F94B-4DFD-887A-41DEA386383D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A01FC1-F94B-4DFD-887A-41DEA386383D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A01FC1-F94B-4DFD-887A-41DEA386383D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A01FC1-F94B-4DFD-887A-41DEA386383D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {496256F1-DF68-4FEE-A0A3-D672DD1F790E}
+	EndGlobalSection
+EndGlobal
